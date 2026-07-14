@@ -5,7 +5,7 @@
  *                          LibreVnaScpiSession
  *               Library  : Metas.Instr.Driver.Vna
  *               Version  : 1.0.0.0
- *               Author   : Lukas Ebner(TU Graz)
+ *               Author   : Lukas Ebner (TU Graz)
  *               Created  : 14.07.2026
  *
  *               Driver for the LibreVNA vector network analyzer.
