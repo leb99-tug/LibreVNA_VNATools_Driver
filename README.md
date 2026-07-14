@@ -11,7 +11,7 @@ METAS VNA Tools driver for the LibreVNA (control via the LibreVNA-GUI's SCPI ser
 ## Add files to folder
 
 
-- Paste the *Metas.Instr.Driver.Vna.LibreVNA.dll* into `%Public%\Documents\Metas.Instr\Drivers\Release\`. 
+- Paste the `Metas.Instr.Driver.Vna.LibreVNA.dll` into `%Public%\Documents\Metas.Instr\Drivers\Release\`. 
 
 ## Usage
 
